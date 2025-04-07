@@ -1,1 +1,1 @@
-# ANPR
+# Implemented an automated number plate detection system using YOLOv8 for real-time license plate detection and Tesseract OCR for character recognition. Fine-tuned detection on custom datasets and optimized OCR preprocessing to improve accuracy under varying lighting and angle conditions.
